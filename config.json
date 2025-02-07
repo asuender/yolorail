@@ -1,4 +1,5 @@
 {
+  "base_model": "yolo11s",
   "training": {
     "epochs": 10,
     "batch": 16,
