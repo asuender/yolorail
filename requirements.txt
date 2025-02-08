@@ -2,3 +2,4 @@ python-dotenv
 lxml
 ultralytics
 wandb
+huggingface_hub
